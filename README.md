@@ -15,6 +15,7 @@ Source Code: https://github.com/UncleEngineer/BitkubAndBinance
 "จะซื้อขายได้ต้องเปิดสิทธิ์การเข้าถึงเป็น WRITE" นำไปใส่ในตัวแปร
 
 apikey = 'afadaasafsdfasdfafadaasafsdfasdf' 
+
 apisecret = b'afadaasafsdfasdfafadaasafsdfasdf'
 
 (ห้ามลบตัว b ออกหน้ารหัส ของ apisecret)
